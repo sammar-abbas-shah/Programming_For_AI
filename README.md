@@ -30,7 +30,6 @@ Programming_For_AI/
 │   ├── Imbalance_SMOTE_make_classification.ipynb
 │   ├── Imbalance_underSampling.ipynb
 │   └── K_Fold_Using_LogisticRegression.ipynb
-├── .py/                   # Python scripts (production-ready)
 ├── csv/                    # Sample datasets for practice
 └── README.md               # This file
 ```
