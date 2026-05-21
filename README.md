@@ -32,7 +32,6 @@ Programming_For_AI/
 │   └── K_Fold_Using_LogisticRegression.ipynb
 ├── .py/                   # Python scripts (production-ready)
 ├── csv/                    # Sample datasets for practice
-├── requirements.txt        # Python dependencies
 └── README.md               # This file
 ```
 
